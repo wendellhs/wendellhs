@@ -1,4 +1,4 @@
-## Oiii eu sou a Wendell Leandro, progamador iniciante!
+## Oiii eu sou Wendell Leandro, progamador iniciante!
 <div align="center">
   <a href="https://github.com/wendellhs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellhs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
